@@ -780,7 +780,7 @@ msgid "Mark _Executable"
 msgstr ""
 
 #: ../thunar/thunar-dnd.c:70
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "ਇੱਥੇ ਨਕਲ(_C)"
 
 #: ../thunar/thunar-dnd.c:70
@@ -1255,7 +1255,7 @@ msgid ""
 msgstr ""
 
 #: ../thunar/thunar-launcher.c:298
-msgid "_Copy"
+msgid "Co_py"
 msgstr "ਨਕਲ(_C)"
 
 #: ../thunar/thunar-launcher.c:298

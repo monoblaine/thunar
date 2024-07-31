@@ -189,7 +189,7 @@ msgstr ""
 "dalam folder terpilih"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Salin"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1268,7 +1268,7 @@ msgid "Mark _Executable"
 msgstr "Tanda sebagai _Boleh Laku"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "Sa_lin di sini"
 
 #: ../thunar/thunar-dnd.c:72

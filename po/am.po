@@ -776,7 +776,7 @@ msgid "Mark _Executable"
 msgstr ""
 
 #: ../thunar/thunar-dnd.c:71
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "እዚህ _ኮፒ ማድረጊያ"
 
 #: ../thunar/thunar-dnd.c:71
@@ -2347,7 +2347,7 @@ msgid "Cu_t"
 msgstr "መቁ_ረጫ"
 
 #: ../thunar/thunar-standard-view.c:406 ../thunar/thunar-tree-view.c:1432
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_ኮፒ"
 
 #: ../thunar/thunar-standard-view.c:407

@@ -194,7 +194,7 @@ msgstr ""
 "valittuun kansioon."
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Kopioi"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1302,7 +1302,7 @@ msgid "Mark _Executable"
 msgstr "Merkitse _suoritettavaksi"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Kopioi tähän"
 
 #: ../thunar/thunar-dnd.c:72

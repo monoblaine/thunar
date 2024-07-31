@@ -188,7 +188,7 @@ msgstr ""
 "selectet fólder"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Copiar"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1293,7 +1293,7 @@ msgid "Mark _Executable"
 msgstr "Marcar quam _executibil"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Copiar ad ci"
 
 #: ../thunar/thunar-dnd.c:72

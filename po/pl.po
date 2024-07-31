@@ -198,7 +198,7 @@ msgstr ""
 "„Skopiuj” do zaznaczonego katalogu"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "S_kopiuj"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1369,7 +1369,7 @@ msgid "Mark _Executable"
 msgstr "Nadaj prawa _uruchamiania"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "S_kopiuj"
 
 #: ../thunar/thunar-dnd.c:72

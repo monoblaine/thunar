@@ -196,7 +196,7 @@ msgstr ""
 "«Copiar» dentro do cartafol seleccionado"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Copiar"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1325,7 +1325,7 @@ msgid "Mark _Executable"
 msgstr "Marcar como _executábel"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Copiar aquí"
 
 #: ../thunar/thunar-dnd.c:72

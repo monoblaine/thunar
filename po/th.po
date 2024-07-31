@@ -186,7 +186,7 @@ msgstr ""
 "ลงในโฟลเดอร์ที่เลือก"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_คัดลอก"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1258,7 +1258,7 @@ msgid "Mark _Executable"
 msgstr "_ตั้งค่าให้เรียกทำงานได้"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_คัดลอกมาที่นี่"
 
 #: ../thunar/thunar-dnd.c:72

@@ -187,7 +187,7 @@ msgid ""
 msgstr "先に \"切り取り\" または \"コピー\" で選択されたファイルを選択したフォルダーに \"移動\" または \"コピー\" します。"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "コピー(_C)"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1262,7 +1262,7 @@ msgid "Mark _Executable"
 msgstr "実行を許可(_E)"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "ここにコピー(_C)"
 
 #: ../thunar/thunar-dnd.c:72

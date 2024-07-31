@@ -186,7 +186,7 @@ msgid ""
 msgstr ""
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "నకలుతీయి (_C)"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1276,7 +1276,7 @@ msgid "Mark _Executable"
 msgstr ""
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "ఇక్కడకు నకలుచేయి (_C)"
 
 #: ../thunar/thunar-dnd.c:72

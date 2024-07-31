@@ -189,7 +189,7 @@ msgstr ""
 "նիշերը ընտրուած պանակ"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Պատճէնել"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1288,7 +1288,7 @@ msgid "Mark _Executable"
 msgstr "Նշել _որպէս գործարկելի"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Պատճէնել այստեղ"
 
 #: ../thunar/thunar-dnd.c:72

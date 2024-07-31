@@ -193,8 +193,8 @@ msgstr ""
 "selected folder"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
-msgstr "_Copy"
+msgid "Co_py"
+msgstr "Co_py"
 
 #: ../thunar/thunar-action-manager.c:301
 msgid "Prepare the selected files to be copied with a Paste command"
@@ -1310,8 +1310,8 @@ msgid "Mark _Executable"
 msgstr "Mark _Executable"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
-msgstr "_Copy here"
+msgid "Co_py here"
+msgstr "Co_py here"
 
 #: ../thunar/thunar-dnd.c:72
 msgid "_Move here"

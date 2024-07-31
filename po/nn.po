@@ -190,7 +190,7 @@ msgstr ""
 "«Kopier»-kommando til den valde mappa."
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Kopier"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1293,7 +1293,7 @@ msgid "Mark _Executable"
 msgstr "_Merk køyrbar"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Kopier inn her"
 
 #: ../thunar/thunar-dnd.c:72

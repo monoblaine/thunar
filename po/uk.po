@@ -203,7 +203,7 @@ msgstr ""
 "командою Вирізати чи Копіювати у вибрану теку"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Копіювати"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1358,7 +1358,7 @@ msgid "Mark _Executable"
 msgstr "Позначити вико_нувальним"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Копіювати сюди"
 
 #: ../thunar/thunar-dnd.c:72

@@ -198,7 +198,7 @@ msgstr ""
 "de tip „Taie” ori „Copiază”"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Copiază"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1332,7 +1332,7 @@ msgid "Mark _Executable"
 msgstr "Marchează ca _executabil"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Copiază aici"
 
 #: ../thunar/thunar-dnd.c:72

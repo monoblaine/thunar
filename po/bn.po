@@ -189,7 +189,7 @@ msgstr ""
 "হবে"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "অনুলিপি (_C)"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1301,7 +1301,7 @@ msgid "Mark _Executable"
 msgstr ""
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "এখানে অণুলিপি করুন (_C)"
 
 #: ../thunar/thunar-dnd.c:72

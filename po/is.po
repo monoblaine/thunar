@@ -191,7 +191,7 @@ msgstr ""
 " skipun, í valda möppu"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Afrita"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1289,7 +1289,7 @@ msgid "Mark _Executable"
 msgstr "Merkja sem _keyranlegt"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Afrita hingað"
 
 #: ../thunar/thunar-dnd.c:72

@@ -195,7 +195,7 @@ msgstr ""
 "másolása a kijelölt mappába"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Másolás"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1306,7 +1306,7 @@ msgid "Mark _Executable"
 msgstr "Legyen _végrehajtható"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "Más_olás ide"
 
 #: ../thunar/thunar-dnd.c:72

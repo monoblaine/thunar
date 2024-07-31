@@ -188,7 +188,7 @@ msgstr ""
 "komandām, pašreizējā mapē"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Kopēt"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1312,7 +1312,7 @@ msgid "Mark _Executable"
 msgstr ""
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Kopēt šeit"
 
 #: ../thunar/thunar-dnd.c:72

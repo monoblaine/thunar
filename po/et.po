@@ -192,7 +192,7 @@ msgstr ""
 "valitud kausta"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Kopeeri"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1303,7 +1303,7 @@ msgid "Mark _Executable"
 msgstr "_Märgi käivitatavaks"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Kopeeri siia"
 
 #: ../thunar/thunar-dnd.c:72

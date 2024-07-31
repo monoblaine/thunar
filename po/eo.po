@@ -188,7 +188,7 @@ msgstr ""
 "Kopiu al selektita dosierujo"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Kopiu"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1295,7 +1295,7 @@ msgid "Mark _Executable"
 msgstr ""
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Kopiu ĉi tien"
 
 #: ../thunar/thunar-dnd.c:72

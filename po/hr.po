@@ -191,7 +191,7 @@ msgstr ""
 "naredbama Izreži ili Kopiraj"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Kopiraj"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1321,7 +1321,7 @@ msgid "Mark _Executable"
 msgstr "Označi _izvršnu"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Kopiraj ovdje"
 
 #: ../thunar/thunar-dnd.c:72

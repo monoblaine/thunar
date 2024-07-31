@@ -201,7 +201,7 @@ msgstr ""
 "gewählten Ordner verschieben oder kopieren"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Kopieren"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1342,7 +1342,7 @@ msgid "Mark _Executable"
 msgstr "Als _ausführbar markieren"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "Hierher _kopieren"
 
 #: ../thunar/thunar-dnd.c:72

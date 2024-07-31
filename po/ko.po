@@ -187,7 +187,7 @@ msgid ""
 msgstr "잘라내기나 복사 명령으로 선택한 파일을 선택한 폴더로 옮기거나 복사합니다"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "복사(_C)"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1261,7 +1261,7 @@ msgid "Mark _Executable"
 msgstr "실행파일로 표시(_E)"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "여기로 복사(_C)"
 
 #: ../thunar/thunar-dnd.c:72

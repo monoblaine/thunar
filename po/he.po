@@ -194,7 +194,7 @@ msgstr ""
 "הנבחרת"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "ה_עתק"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1355,7 +1355,7 @@ msgid "Mark _Executable"
 msgstr "_סמן בר ביצוע"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_העתק כאן"
 
 #: ../thunar/thunar-dnd.c:72

@@ -190,7 +190,7 @@ msgid ""
 msgstr "使用剪切或复制命令将先前选中的文件移动或复制至选中的文件夹"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "复制(_C)"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1261,7 +1261,7 @@ msgid "Mark _Executable"
 msgstr "标记为可执行(_E)"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "复制至这里(_C)"
 
 #: ../thunar/thunar-dnd.c:72

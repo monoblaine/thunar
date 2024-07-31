@@ -195,7 +195,7 @@ msgstr ""
 "αποκοπή ή αντιγραφή στον επιλεγμένο φάκελο"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "Α_ντιγραφή"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1324,7 +1324,7 @@ msgid "Mark _Executable"
 msgstr "Σημείωση ως _εκτελέσιμο"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "Α_ντιγραφή εδώ"
 
 #: ../thunar/thunar-dnd.c:72

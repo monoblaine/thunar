@@ -193,7 +193,7 @@ msgstr ""
 "\"Скапіяваць\" у абраны каталог"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Скапіяваць"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1356,7 +1356,7 @@ msgid "Mark _Executable"
 msgstr "Пазначыць _запускальным"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "С_капіяваць сюды"
 
 #: ../thunar/thunar-dnd.c:72

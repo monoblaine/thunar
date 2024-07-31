@@ -194,7 +194,7 @@ msgstr ""
 "gekozen, naar de geselecteerde map"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Kopiëren"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1320,7 +1320,7 @@ msgid "Mark _Executable"
 msgstr "Markeer als uitvoerbaar"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Kopieer hierheen"
 
 #: ../thunar/thunar-dnd.c:72

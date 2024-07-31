@@ -193,7 +193,7 @@ msgstr ""
 "Копиране, в избраната папка"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "Копиране"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1318,7 +1318,7 @@ msgid "Mark _Executable"
 msgstr "_Отбелязване като изпълним"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Копиране тук"
 
 #: ../thunar/thunar-dnd.c:72

@@ -189,7 +189,7 @@ msgid ""
 msgstr "انقل أو انسخ الملفات المختارة سابقا بأمر قص أو انسخ إلى المجلد المحدد"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_نسخ"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1402,7 +1402,7 @@ msgid "Mark _Executable"
 msgstr "علم كقابل للتنفيذ"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_أنسخ هنا"
 
 #: ../thunar/thunar-dnd.c:72

@@ -197,7 +197,7 @@ msgstr ""
 "taşıyın ya da kopyalayın"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "Ko_pyala"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1311,7 +1311,7 @@ msgid "Mark _Executable"
 msgstr "_Çalıştırılabilir Olarak İmle"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "Buraya _kopyala"
 
 #: ../thunar/thunar-dnd.c:72

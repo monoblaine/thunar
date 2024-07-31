@@ -198,7 +198,7 @@ msgstr ""
 "Zkopírovat do vybrané složky"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Kopírovat"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1353,7 +1353,7 @@ msgid "Mark _Executable"
 msgstr "Označit jako _spustitelný"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "Zkopírovat _sem"
 
 #: ../thunar/thunar-dnd.c:72

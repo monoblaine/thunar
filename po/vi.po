@@ -187,7 +187,7 @@ msgstr ""
 "thư mục đã chọn"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "Sao _chép"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1263,7 +1263,7 @@ msgid "Mark _Executable"
 msgstr "Đánh dấu thực thi được"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Sao chép vào đây"
 
 #: ../thunar/thunar-dnd.c:72

@@ -194,7 +194,7 @@ msgstr ""
 "priečinka"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Kopírovať"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1345,7 +1345,7 @@ msgid "Mark _Executable"
 msgstr "_Označiť ako spustiteľný"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Kopírovať sem"
 
 #: ../thunar/thunar-dnd.c:72

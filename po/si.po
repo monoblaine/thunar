@@ -711,7 +711,7 @@ msgid "Mark _Executable"
 msgstr "ක්‍රියාත්මක කළ හැකි ගොනු"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr ""
 
 #: ../thunar/thunar-dnd.c:72
@@ -2202,7 +2202,7 @@ msgstr ""
 
 #. append the "Copy" menu action
 #: ../thunar/thunar-standard-view.c:390 ../thunar/thunar-tree-view.c:1224
-msgid "_Copy"
+msgid "Co_py"
 msgstr ""
 
 #: ../thunar/thunar-standard-view.c:391

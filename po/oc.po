@@ -196,7 +196,7 @@ msgstr ""
 "Talhar o Copiar dins lo dorsièr seleccionat"
 
 #: ../thunar/thunar-action-manager.c:301
-msgid "_Copy"
+msgid "Co_py"
 msgstr "_Copiar"
 
 #: ../thunar/thunar-action-manager.c:301
@@ -1307,7 +1307,7 @@ msgid "Mark _Executable"
 msgstr "Marcar _executable"
 
 #: ../thunar/thunar-dnd.c:72
-msgid "_Copy here"
+msgid "Co_py here"
 msgstr "_Copiar aicí"
 
 #: ../thunar/thunar-dnd.c:72
